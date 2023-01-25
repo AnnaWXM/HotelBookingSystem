@@ -2,10 +2,10 @@
 
 Project date: December 2021
 
-It's my frist complete program, there is some issue if user didn't enter current form of variables.
+It's my frist complete program, there is some issue if error made by users.
 
 
-##Program introducation
+## Program introducation
 
 The hotel has n rooms, numbers 1-n. The number of rooms is assigned to the program as standard. 
 
